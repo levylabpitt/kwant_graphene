@@ -5,6 +5,10 @@ This program is intended for quantum simulation in grapehne system, base on Kwan
 
 https://kwant-project.org/
 
+## Typical workflow for kwant
+![](kwant_images/kwantflow.png)
+
+
 ## Program structure
 1. Initialize the parameter space
 2. define onsite and hopping terms.
