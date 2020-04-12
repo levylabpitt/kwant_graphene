@@ -1,7 +1,7 @@
 # kwant_graphene
 kwant simulation
 
-## This program is intended for quantum simulation in grapehne system, base on Kwant, which is a free (open source), powerful, and easy to use Python package for numerical calculations on tight-binding models with a strong focus on quantum transport.
+This program is intended for quantum simulation in grapehne system, base on Kwant, which is a free (open source), powerful, and easy to use Python package for numerical calculations on tight-binding models with a strong focus on quantum transport.
 
 https://kwant-project.org/
 
